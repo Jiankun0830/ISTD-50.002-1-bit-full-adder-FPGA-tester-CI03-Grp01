@@ -1,0 +1,8 @@
+INTSTYLE=pa
+INFILE=F:\mojo\1bit_full_adder\work\planAhead\1bit_full_adder\1bit_full_adder.runs\impl_1\mojo_top_0_routed.ncd
+OUTFILE=F:\mojo\1bit_full_adder\work\planAhead\1bit_full_adder\1bit_full_adder.runs\impl_1\mojo_top_0.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=F:\mojo\1bit_full_adder\work\planAhead\1bit_full_adder\1bit_full_adder.runs\impl_1
+LICENSE=WebPack
+USER_INFO=211594911_0_0_915
